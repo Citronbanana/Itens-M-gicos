@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module sdkVersion="3.5">
+        <id>br.citronrpg.DnD5_SDK3</id>
+        <version>1.0</version>
+        <name>Ficha de Itens Mágicos</name>
+        <description>Adiciona funcionalidades para itens em uma ficha</description>
+        <author>Citronba</author>
+        <site>https://ebbion.fandom.com/pt-br/f</site>
+        <contact>https://www.facebook.com/AnonimousDreamer</contact>
+</module>
+
+
